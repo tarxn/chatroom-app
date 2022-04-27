@@ -1,4 +1,4 @@
-download the zip file from the github and run
+download the zip file
 
 npm run dev
 
